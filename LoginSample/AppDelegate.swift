@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LoginSample
 //
-//  Created by 林克彦 on 2015/06/29.
+//  Created by Hayashidesu. on 2015/06/29.
 //  Copyright (c) 2015年 Hayashidesu. All rights reserved.
 //
 
